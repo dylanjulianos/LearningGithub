@@ -115,7 +115,7 @@
                         <outlet property="musicDurationSlider" destination="Xvn-9I-xHq" id="TDK-8z-rxx"/>
                         <outlet property="musicSingerLbl" destination="Ur8-Jt-hAH" id="2ei-hr-faW"/>
                         <outlet property="musicTitleLbl" destination="jfO-kd-oIk" id="0d2-79-8Rf"/>
-                        <outlet property="nextMusicBtn" destination="yEi-N9-ZAc" id="9di-Fq-ubB"/>
+                        <outlet property="nextMusicBtn" destination="yEi-N9-ZAc" id="eY2-Yi-hoI"/>
                         <outlet property="playMusicBtn" destination="aqV-oE-EX4" id="KCc-hL-pBV"/>
                         <outlet property="prevMusicBtn" destination="Gm2-jo-c46" id="9Mp-tU-Wjf"/>
                         <outlet property="timeLeftLbl" destination="njA-8i-Vx4" id="z9c-4X-WOe"/>
