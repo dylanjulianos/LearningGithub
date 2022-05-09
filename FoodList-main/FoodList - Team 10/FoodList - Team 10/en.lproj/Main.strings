@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Expiring Product"; ObjectID = "3DP-Gv-ZbW"; */
+"3DP-Gv-ZbW.text" = "Expiring Product";
+
+/* Class = "UIButton"; configuration.title = "See More"; ObjectID = "53D-Gl-mJo"; */
+"53D-Gl-mJo.configuration.title" = "See More";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "53D-Gl-mJo"; */
+"53D-Gl-mJo.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "Landing Page"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Landing Page";
+
+/* Class = "UIViewController"; title = "Home Page"; ObjectID = "C6J-4I-58w"; */
+"C6J-4I-58w.title" = "Home Page";
+
+/* Class = "UIButton"; configuration.title = "Skip"; ObjectID = "CwD-qG-FLC"; */
+"CwD-qG-FLC.configuration.title" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CwD-qG-FLC"; */
+"CwD-qG-FLC.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Add Product"; ObjectID = "Ghl-Qm-Wa3"; */
+"Ghl-Qm-Wa3.configuration.title" = "Add Product";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ghl-Qm-Wa3"; */
+"Ghl-Qm-Wa3.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Calendar"; ObjectID = "lDm-qh-miU"; */
+"lDm-qh-miU.configuration.title" = "Calendar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lDm-qh-miU"; */
+"lDm-qh-miU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qoO-IR-08c"; */
+"qoO-IR-08c.text" = "Label";
